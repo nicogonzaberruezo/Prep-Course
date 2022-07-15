@@ -1,0 +1,15 @@
+VARIABLES
+Son formas a las que le puedo asignar un valor y guardarlo para poder utilizarlo más tarde.
+
+STRINGS
+Es un bloque o un hilo de caracteres. Se utilizan entre comillas ya sean simples o dobles.
+
+ARGUMENTOS RETURN
+Los argumentos son lo que se ubica dentro de los parentesis de una funcion. 
+En este caso Return se utiliza como la unica forma de devolver algo fuera de la funcion.
+
+DECLARACIONES IF
+Nos permite hacer preguntas e ir ejecutando diferentes codigos segun distintas condiciones. Principalmente verdadero o falso.
+
+VALORES BOOLEANOS
+Es un tipo de datos dentro del lenguaje de JS. Se utiliza para significar si algo es verdadero o falso. Solo tiene dos valores posibles: true or false.
